@@ -43,6 +43,7 @@ header>nav>a:hover {
 /* Aplicamos estilo al main */
 main{
     background-color: yellow;
+    padding-bottom: 10px;
 }
 
 .main{
@@ -86,4 +87,5 @@ footer>p{
     color: white;
     font-size: large;
     font-family: 'Montserrat', sans-serif;
+    padding-top: 5px;
 }
